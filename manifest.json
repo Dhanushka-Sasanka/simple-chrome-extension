@@ -1,0 +1,11 @@
+{
+    "name": "Dummy User Data Extension",
+    "version": "1.0.0",
+    "description": "Dummy User Data Extension",
+    "manifest_version": 3,
+    "author": "Dhanushka Sasanka Paranavithana",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Dummy User Data Extension"
+    }
+}
